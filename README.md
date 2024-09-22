@@ -9,8 +9,8 @@ did you wander off in here or maybe you wanna know a little more about me, yes? 
 - many things
 
 ### what can I do for your business / just you?
-- design and build websites using MERN stack or any other(with enough prep time).
-- program a few things in c and c++, or any other language(with enough prep time).
+- design and build websites using MERN stack or any other(with prep time).
+- program a few things in c and c++, or any other language(with prep time).
 - be a SOC analyst.(Although prospects to be pentester would be nice).
 - digital marketing.
 - team management, handle client and technical team interactions (I have done a couple times before, I can do it again).
